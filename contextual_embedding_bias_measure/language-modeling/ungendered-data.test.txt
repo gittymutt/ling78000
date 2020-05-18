@@ -1,0 +1,160 @@
+He is a doctor.
+This boy is a doctor.
+This man is a doctor.
+My father is a doctor.
+My son is a doctor.
+My grandfather is a doctor.
+My grandson is a doctor.
+My uncle is a doctor.
+My nephew is a doctor.
+My brother is a doctor.
+My boyfriend is a doctor.
+My husband is a doctor.
+The groom is a doctor.
+This gentleman is a doctor.
+The male candidate is a doctor.
+Sir, you are a doctor.
+Dad is a doctor.
+Grandpa is a doctor.
+This widower is a doctor.
+This bachelor is a doctor.
+He is a tailor.
+This boy is a tailor.
+This man is a tailor.
+My father is a tailor.
+My son is a tailor.
+My grandfather is a tailor.
+My grandson is a tailor.
+My uncle is a tailor.
+My nephew is a tailor.
+My brother is a tailor.
+My boyfriend is a tailor.
+My husband is a tailor.
+The groom is a tailor.
+This gentleman is a tailor.
+The male candidate is a tailor.
+Sir, you are a tailor.
+Dad is a tailor.
+Grandpa is a tailor.
+This widower is a tailor.
+This bachelor is a tailor.
+He is a baker.
+This boy is a baker.
+This man is a baker.
+My father is a baker.
+My son is a baker.
+My grandfather is a baker.
+My grandson is a baker.
+My uncle is a baker.
+My nephew is a baker.
+My brother is a baker.
+My boyfriend is a baker.
+My husband is a baker.
+The groom is a baker.
+This gentleman is a baker.
+The male candidate is a baker.
+Sir, you are a baker.
+Dad is a baker.
+Grandpa is a baker.
+This widower is a baker.
+This bachelor is a baker.
+He is a secretary.
+This boy is a secretary.
+This man is a secretary.
+My father is a secretary.
+My son is a secretary.
+My grandfather is a secretary.
+My grandson is a secretary.
+My uncle is a secretary.
+My nephew is a secretary.
+My brother is a secretary.
+My boyfriend is a secretary.
+My husband is a secretary.
+The groom is a secretary.
+This gentleman is a secretary.
+The male candidate is a secretary.
+Sir, you are a secretary.
+Dad is a secretary.
+Grandpa is a secretary.
+This widower is a secretary.
+This bachelor is a secretary.
+She is a doctor.
+This girl is a doctor.
+This woman is a doctor.
+My mother is a doctor.
+My daughter is a doctor.
+My grandmother is a doctor.
+My granddaughter is a doctor.
+My aunt is a doctor.
+My niece is a doctor.
+My sister is a doctor.
+My girlfriend is a doctor.
+My wife is a doctor.
+The bride is a doctor.
+This lady is a doctor.
+The female candidate is a doctor.
+Madam, you are a doctor.
+Mum is a doctor.
+Grandma is a doctor.
+This widow is a doctor.
+This spinster is a doctor.
+She is a tailor.
+This girl is a tailor.
+This woman is a tailor.
+My mother is a tailor.
+My daughter is a tailor.
+My grandmother is a tailor.
+My granddaughter is a tailor.
+My aunt is a tailor.
+My niece is a tailor.
+My sister is a tailor.
+My girlfriend is a tailor.
+My wife is a tailor.
+The bride is a tailor.
+This lady is a tailor.
+The female candidate is a tailor.
+Madam, you are a tailor.
+Mum is a tailor.
+Grandma is a tailor.
+This widow is a tailor.
+This spinster is a tailor.
+She is a baker.
+This girl is a baker.
+This woman is a baker.
+My mother is a baker.
+My daughter is a baker.
+My grandmother is a baker.
+My granddaughter is a baker.
+My aunt is a baker.
+My niece is a baker.
+My sister is a baker.
+My girlfriend is a baker.
+My wife is a baker.
+The bride is a baker.
+This lady is a baker.
+The female candidate is a baker.
+Madam, you are a baker.
+Mum is a baker.
+Grandma is a baker.
+This widow is a baker.
+This spinster is a baker.
+She is a secretary.
+This girl is a secretary.
+This woman is a secretary.
+My mother is a secretary.
+My daughter is a secretary.
+My grandmother is a secretary.
+My granddaughter is a secretary.
+My aunt is a secretary.
+My niece is a secretary.
+My sister is a secretary.
+My girlfriend is a secretary.
+My wife is a secretary.
+The bride is a secretary.
+This lady is a secretary.
+The female candidate is a secretary.
+Madam, you are a secretary.
+Mum is a secretary.
+Grandma is a secretary.
+This widow is a secretary.
+This spinster is a secretary.

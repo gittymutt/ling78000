@@ -1,0 +1,49 @@
+python run_language_modeling.py --output_dir=output --model_type=roberta --model_name_or_path=roberta-base --do_train --train_data_file=c:\\Users\\pedro\\Documents\\programming\\python\\LING78000\\transformers\\examples\\language-modeling\\wiki\\wikitext-2-raw\\wiki.train --do_eval --eval_data_file=\\Users\\pedro\\Documents\\programming\\python\\LING78000\\transformers\\examples\\language-modeling\\wiki\\wikitext-2-raw\\wiki.valid --mlm
+
+
+python run_language_modeling.py --output_dir=output --model_type=roberta --model_name_or_path=roberta-base --do_train --train_data_file=wiki.train --do_eval --eval_data_file=wiki.valid --mlm
+
+
+
+
+
+
+python run_language_modeling.py --output_dir=output --model_type=roberta --model_name_or_path=roberta-base --do_train --train_data_file=wiki.train --do_eval --eval_data_file=wiki.valid --mlm
+
+
+
+
+usage: run_language_modeling.py [-h] [--model_name_or_path MODEL_NAME_OR_PATH]
+                                [--model_type MODEL_TYPE]
+                                [--config_name CONFIG_NAME]
+                                [--tokenizer_name TOKENIZER_NAME]
+                                [--cache_dir CACHE_DIR]
+                                [--train_data_file TRAIN_DATA_FILE]
+                                [--eval_data_file EVAL_DATA_FILE]
+                                [--line_by_line] [--mlm]
+                                [--mlm_probability MLM_PROBABILITY]
+                                [--block_size BLOCK_SIZE] [--overwrite_cache]
+                                --output_dir OUTPUT_DIR
+                                [--overwrite_output_dir] [--do_train]
+                                [--do_eval] [--do_predict]
+                                [--evaluate_during_training]
+                                [--per_gpu_train_batch_size PER_GPU_TRAIN_BATCH_SIZE]
+                                [--per_gpu_eval_batch_size PER_GPU_EVAL_BATCH_SIZE]
+                                [--gradient_accumulation_steps GRADIENT_ACCUMULATION_STEPS]
+                                [--learning_rate LEARNING_RATE]
+                                [--weight_decay WEIGHT_DECAY]
+                                [--adam_epsilon ADAM_EPSILON]
+                                [--max_grad_norm MAX_GRAD_NORM]
+                                [--num_train_epochs NUM_TRAIN_EPOCHS]
+                                [--max_steps MAX_STEPS]
+                                [--warmup_steps WARMUP_STEPS]
+                                [--logging_dir LOGGING_DIR]
+                                [--logging_first_step]
+                                [--logging_steps LOGGING_STEPS]
+                                [--save_steps SAVE_STEPS]
+                                [--save_total_limit SAVE_TOTAL_LIMIT]
+                                [--no_cuda] [--seed SEED] [--fp16]
+                                [--fp16_opt_level FP16_OPT_LEVEL]
+                                [--local_rank LOCAL_RANK]
+                                [--tpu_num_cores TPU_NUM_CORES]
+                                [--tpu_metrics_debug]

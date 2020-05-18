@@ -1,0 +1,800 @@
+He is a doctor.
+This boy is a doctor.
+This man is a doctor.
+My father is a doctor.
+My son is a doctor.
+My grandfather is a doctor.
+My grandson is a doctor.
+My uncle is a doctor.
+My nephew is a doctor.
+My brother is a doctor.
+My boyfriend is a doctor.
+My husband is a doctor.
+The groom is a doctor.
+This gentleman is a doctor.
+The male candidate is a doctor.
+Sir, you are a doctor.
+Dad is a doctor.
+Grandpa is a doctor.
+This widower is a doctor.
+This bachelor is a doctor.
+He is a tailor.
+This boy is a tailor.
+This man is a tailor.
+My father is a tailor.
+My son is a tailor.
+My grandfather is a tailor.
+My grandson is a tailor.
+My uncle is a tailor.
+My nephew is a tailor.
+My brother is a tailor.
+My boyfriend is a tailor.
+My husband is a tailor.
+The groom is a tailor.
+This gentleman is a tailor.
+The male candidate is a tailor.
+Sir, you are a tailor.
+Dad is a tailor.
+Grandpa is a tailor.
+This widower is a tailor.
+This bachelor is a tailor.
+He is a baker.
+This boy is a baker.
+This man is a baker.
+My father is a baker.
+My son is a baker.
+My grandfather is a baker.
+My grandson is a baker.
+My uncle is a baker.
+My nephew is a baker.
+My brother is a baker.
+My boyfriend is a baker.
+My husband is a baker.
+The groom is a baker.
+This gentleman is a baker.
+The male candidate is a baker.
+Sir, you are a baker.
+Dad is a baker.
+Grandpa is a baker.
+This widower is a baker.
+This bachelor is a baker.
+He is a secretary.
+This boy is a secretary.
+This man is a secretary.
+My father is a secretary.
+My son is a secretary.
+My grandfather is a secretary.
+My grandson is a secretary.
+My uncle is a secretary.
+My nephew is a secretary.
+My brother is a secretary.
+My boyfriend is a secretary.
+My husband is a secretary.
+The groom is a secretary.
+This gentleman is a secretary.
+The male candidate is a secretary.
+Sir, you are a secretary.
+Dad is a secretary.
+Grandpa is a secretary.
+This widower is a secretary.
+This bachelor is a secretary.
+He is a professor.
+This boy is a professor.
+This man is a professor.
+My father is a professor.
+My son is a professor.
+My grandfather is a professor.
+My grandson is a professor.
+My uncle is a professor.
+My nephew is a professor.
+My brother is a professor.
+My boyfriend is a professor.
+My husband is a professor.
+The groom is a professor.
+This gentleman is a professor.
+The male candidate is a professor.
+Sir, you are a professor.
+Dad is a professor.
+Grandpa is a professor.
+This widower is a professor.
+This bachelor is a professor.
+He is a scientist.
+This boy is a scientist.
+This man is a scientist.
+My father is a scientist.
+My son is a scientist.
+My grandfather is a scientist.
+My grandson is a scientist.
+My uncle is a scientist.
+My nephew is a scientist.
+My brother is a scientist.
+My boyfriend is a scientist.
+My husband is a scientist.
+The groom is a scientist.
+This gentleman is a scientist.
+The male candidate is a scientist.
+Sir, you are a scientist.
+Dad is a scientist.
+Grandpa is a scientist.
+This widower is a scientist.
+This bachelor is a scientist.
+He is a writer.
+This boy is a writer.
+This man is a writer.
+My father is a writer.
+My son is a writer.
+My grandfather is a writer.
+My grandson is a writer.
+My uncle is a writer.
+My nephew is a writer.
+My brother is a writer.
+My boyfriend is a writer.
+My husband is a writer.
+The groom is a writer.
+This gentleman is a writer.
+The male candidate is a writer.
+Sir, you are a writer.
+Dad is a writer.
+Grandpa is a writer.
+This widower is a writer.
+This bachelor is a writer.
+He is a teacher.
+This boy is a teacher.
+This man is a teacher.
+My father is a teacher.
+My son is a teacher.
+My grandfather is a teacher.
+My grandson is a teacher.
+My uncle is a teacher.
+My nephew is a teacher.
+My brother is a teacher.
+My boyfriend is a teacher.
+My husband is a teacher.
+The groom is a teacher.
+This gentleman is a teacher.
+The male candidate is a teacher.
+Sir, you are a teacher.
+Dad is a teacher.
+Grandpa is a teacher.
+This widower is a teacher.
+This bachelor is a teacher.
+He is a truck driver.
+This boy is a truck driver.
+This man is a truck driver.
+My father is a truck driver.
+My son is a truck driver.
+My grandfather is a truck driver.
+My grandson is a truck driver.
+My uncle is a truck driver.
+My nephew is a truck driver.
+My brother is a truck driver.
+My boyfriend is a truck driver.
+My husband is a truck driver.
+The groom is a truck driver.
+This gentleman is a truck driver.
+The male candidate is a truck driver.
+Sir, you are a truck driver.
+Dad is a truck driver.
+Grandpa is a truck driver.
+This widower is a truck driver.
+This bachelor is a truck driver.
+He is a pilot.
+This boy is a pilot.
+This man is a pilot.
+My father is a pilot.
+My son is a pilot.
+My grandfather is a pilot.
+My grandson is a pilot.
+My uncle is a pilot.
+My nephew is a pilot.
+My brother is a pilot.
+My boyfriend is a pilot.
+My husband is a pilot.
+The groom is a pilot.
+This gentleman is a pilot.
+The male candidate is a pilot.
+Sir, you are a pilot.
+Dad is a pilot.
+Grandpa is a pilot.
+This widower is a pilot.
+This bachelor is a pilot.
+He is a lawyer.
+This boy is a lawyer.
+This man is a lawyer.
+My father is a lawyer.
+My son is a lawyer.
+My grandfather is a lawyer.
+My grandson is a lawyer.
+My uncle is a lawyer.
+My nephew is a lawyer.
+My brother is a lawyer.
+My boyfriend is a lawyer.
+My husband is a lawyer.
+The groom is a lawyer.
+This gentleman is a lawyer.
+The male candidate is a lawyer.
+Sir, you are a lawyer.
+Dad is a lawyer.
+Grandpa is a lawyer.
+This widower is a lawyer.
+This bachelor is a lawyer.
+He is a flight attendant.
+This boy is a flight attendant.
+This man is a flight attendant.
+My father is a flight attendant.
+My son is a flight attendant.
+My grandfather is a flight attendant.
+My grandson is a flight attendant.
+My uncle is a flight attendant.
+My nephew is a flight attendant.
+My brother is a flight attendant.
+My boyfriend is a flight attendant.
+My husband is a flight attendant.
+The groom is a flight attendant.
+This gentleman is a flight attendant.
+The male candidate is a flight attendant.
+Sir, you are a flight attendant.
+Dad is a flight attendant.
+Grandpa is a flight attendant.
+This widower is a flight attendant.
+This bachelor is a flight attendant.
+He is a nurse.
+This boy is a nurse.
+This man is a nurse.
+My father is a nurse.
+My son is a nurse.
+My grandfather is a nurse.
+My grandson is a nurse.
+My uncle is a nurse.
+My nephew is a nurse.
+My brother is a nurse.
+My boyfriend is a nurse.
+My husband is a nurse.
+The groom is a nurse.
+This gentleman is a nurse.
+The male candidate is a nurse.
+Sir, you are a nurse.
+Dad is a nurse.
+Grandpa is a nurse.
+This widower is a nurse.
+This bachelor is a nurse.
+He is a chef.
+This boy is a chef.
+This man is a chef.
+My father is a chef.
+My son is a chef.
+My grandfather is a chef.
+My grandson is a chef.
+My uncle is a chef.
+My nephew is a chef.
+My brother is a chef.
+My boyfriend is a chef.
+My husband is a chef.
+The groom is a chef.
+This gentleman is a chef.
+The male candidate is a chef.
+Sir, you are a chef.
+Dad is a chef.
+Grandpa is a chef.
+This widower is a chef.
+This bachelor is a chef.
+He is a soldier.
+This boy is a soldier.
+This man is a soldier.
+My father is a soldier.
+My son is a soldier.
+My grandfather is a soldier.
+My grandson is a soldier.
+My uncle is a soldier.
+My nephew is a soldier.
+My brother is a soldier.
+My boyfriend is a soldier.
+My husband is a soldier.
+The groom is a soldier.
+This gentleman is a soldier.
+The male candidate is a soldier.
+Sir, you are a soldier.
+Dad is a soldier.
+Grandpa is a soldier.
+This widower is a soldier.
+This bachelor is a soldier.
+He is a dancer.
+This boy is a dancer.
+This man is a dancer.
+My father is a dancer.
+My son is a dancer.
+My grandfather is a dancer.
+My grandson is a dancer.
+My uncle is a dancer.
+My nephew is a dancer.
+My brother is a dancer.
+My boyfriend is a dancer.
+My husband is a dancer.
+The groom is a dancer.
+This gentleman is a dancer.
+The male candidate is a dancer.
+Sir, you are a dancer.
+Dad is a dancer.
+Grandpa is a dancer.
+This widower is a dancer.
+This bachelor is a dancer.
+He is a gym trainer.
+This boy is a gym trainer.
+This man is a gym trainer.
+My father is a gym trainer.
+My son is a gym trainer.
+My grandfather is a gym trainer.
+My grandson is a gym trainer.
+My uncle is a gym trainer.
+My nephew is a gym trainer.
+My brother is a gym trainer.
+My boyfriend is a gym trainer.
+My husband is a gym trainer.
+The groom is a gym trainer.
+This gentleman is a gym trainer.
+The male candidate is a gym trainer.
+Sir, you are a gym trainer.
+Dad is a gym trainer.
+Grandpa is a gym trainer.
+This widower is a gym trainer.
+This bachelor is a gym trainer.
+He is a mechanic.
+This boy is a mechanic.
+This man is a mechanic.
+My father is a mechanic.
+My son is a mechanic.
+My grandfather is a mechanic.
+My grandson is a mechanic.
+My uncle is a mechanic.
+My nephew is a mechanic.
+My brother is a mechanic.
+My boyfriend is a mechanic.
+My husband is a mechanic.
+The groom is a mechanic.
+This gentleman is a mechanic.
+The male candidate is a mechanic.
+Sir, you are a mechanic.
+Dad is a mechanic.
+Grandpa is a mechanic.
+This widower is a mechanic.
+This bachelor is a mechanic.
+He is a clerk.
+This boy is a clerk.
+This man is a clerk.
+My father is a clerk.
+My son is a clerk.
+My grandfather is a clerk.
+My grandson is a clerk.
+My uncle is a clerk.
+My nephew is a clerk.
+My brother is a clerk.
+My boyfriend is a clerk.
+My husband is a clerk.
+The groom is a clerk.
+This gentleman is a clerk.
+The male candidate is a clerk.
+Sir, you are a clerk.
+Dad is a clerk.
+Grandpa is a clerk.
+This widower is a clerk.
+This bachelor is a clerk.
+He is a bartender.
+This boy is a bartender.
+This man is a bartender.
+My father is a bartender.
+My son is a bartender.
+My grandfather is a bartender.
+My grandson is a bartender.
+My uncle is a bartender.
+My nephew is a bartender.
+My brother is a bartender.
+My boyfriend is a bartender.
+My husband is a bartender.
+The groom is a bartender.
+This gentleman is a bartender.
+The male candidate is a bartender.
+Sir, you are a bartender.
+Dad is a bartender.
+Grandpa is a bartender.
+This widower is a bartender.
+This bachelor is a bartender.
+She is a doctor.
+This girl is a doctor.
+This woman is a doctor.
+My mother is a doctor.
+My daughter is a doctor.
+My grandmother is a doctor.
+My granddaughter is a doctor.
+My aunt is a doctor.
+My niece is a doctor.
+My sister is a doctor.
+My girlfriend is a doctor.
+My wife is a doctor.
+The bride is a doctor.
+This lady is a doctor.
+The female candidate is a doctor.
+Madam, you are a doctor.
+Mum is a doctor.
+Grandma is a doctor.
+This widow is a doctor.
+This spinster is a doctor.
+She is a tailor.
+This girl is a tailor.
+This woman is a tailor.
+My mother is a tailor.
+My daughter is a tailor.
+My grandmother is a tailor.
+My granddaughter is a tailor.
+My aunt is a tailor.
+My niece is a tailor.
+My sister is a tailor.
+My girlfriend is a tailor.
+My wife is a tailor.
+The bride is a tailor.
+This lady is a tailor.
+The female candidate is a tailor.
+Madam, you are a tailor.
+Mum is a tailor.
+Grandma is a tailor.
+This widow is a tailor.
+This spinster is a tailor.
+She is a baker.
+This girl is a baker.
+This woman is a baker.
+My mother is a baker.
+My daughter is a baker.
+My grandmother is a baker.
+My granddaughter is a baker.
+My aunt is a baker.
+My niece is a baker.
+My sister is a baker.
+My girlfriend is a baker.
+My wife is a baker.
+The bride is a baker.
+This lady is a baker.
+The female candidate is a baker.
+Madam, you are a baker.
+Mum is a baker.
+Grandma is a baker.
+This widow is a baker.
+This spinster is a baker.
+She is a secretary.
+This girl is a secretary.
+This woman is a secretary.
+My mother is a secretary.
+My daughter is a secretary.
+My grandmother is a secretary.
+My granddaughter is a secretary.
+My aunt is a secretary.
+My niece is a secretary.
+My sister is a secretary.
+My girlfriend is a secretary.
+My wife is a secretary.
+The bride is a secretary.
+This lady is a secretary.
+The female candidate is a secretary.
+Madam, you are a secretary.
+Mum is a secretary.
+Grandma is a secretary.
+This widow is a secretary.
+This spinster is a secretary.
+She is a professor.
+This girl is a professor.
+This woman is a professor.
+My mother is a professor.
+My daughter is a professor.
+My grandmother is a professor.
+My granddaughter is a professor.
+My aunt is a professor.
+My niece is a professor.
+My sister is a professor.
+My girlfriend is a professor.
+My wife is a professor.
+The bride is a professor.
+This lady is a professor.
+The female candidate is a professor.
+Madam, you are a professor.
+Mum is a professor.
+Grandma is a professor.
+This widow is a professor.
+This spinster is a professor.
+She is a scientist.
+This girl is a scientist.
+This woman is a scientist.
+My mother is a scientist.
+My daughter is a scientist.
+My grandmother is a scientist.
+My granddaughter is a scientist.
+My aunt is a scientist.
+My niece is a scientist.
+My sister is a scientist.
+My girlfriend is a scientist.
+My wife is a scientist.
+The bride is a scientist.
+This lady is a scientist.
+The female candidate is a scientist.
+Madam, you are a scientist.
+Mum is a scientist.
+Grandma is a scientist.
+This widow is a scientist.
+This spinster is a scientist.
+She is a writer.
+This girl is a writer.
+This woman is a writer.
+My mother is a writer.
+My daughter is a writer.
+My grandmother is a writer.
+My granddaughter is a writer.
+My aunt is a writer.
+My niece is a writer.
+My sister is a writer.
+My girlfriend is a writer.
+My wife is a writer.
+The bride is a writer.
+This lady is a writer.
+The female candidate is a writer.
+Madam, you are a writer.
+Mum is a writer.
+Grandma is a writer.
+This widow is a writer.
+This spinster is a writer.
+She is a teacher.
+This girl is a teacher.
+This woman is a teacher.
+My mother is a teacher.
+My daughter is a teacher.
+My grandmother is a teacher.
+My granddaughter is a teacher.
+My aunt is a teacher.
+My niece is a teacher.
+My sister is a teacher.
+My girlfriend is a teacher.
+My wife is a teacher.
+The bride is a teacher.
+This lady is a teacher.
+The female candidate is a teacher.
+Madam, you are a teacher.
+Mum is a teacher.
+Grandma is a teacher.
+This widow is a teacher.
+This spinster is a teacher.
+She is a truck driver.
+This girl is a truck driver.
+This woman is a truck driver.
+My mother is a truck driver.
+My daughter is a truck driver.
+My grandmother is a truck driver.
+My granddaughter is a truck driver.
+My aunt is a truck driver.
+My niece is a truck driver.
+My sister is a truck driver.
+My girlfriend is a truck driver.
+My wife is a truck driver.
+The bride is a truck driver.
+This lady is a truck driver.
+The female candidate is a truck driver.
+Madam, you are a truck driver.
+Mum is a truck driver.
+Grandma is a truck driver.
+This widow is a truck driver.
+This spinster is a truck driver.
+She is a pilot.
+This girl is a pilot.
+This woman is a pilot.
+My mother is a pilot.
+My daughter is a pilot.
+My grandmother is a pilot.
+My granddaughter is a pilot.
+My aunt is a pilot.
+My niece is a pilot.
+My sister is a pilot.
+My girlfriend is a pilot.
+My wife is a pilot.
+The bride is a pilot.
+This lady is a pilot.
+The female candidate is a pilot.
+Madam, you are a pilot.
+Mum is a pilot.
+Grandma is a pilot.
+This widow is a pilot.
+This spinster is a pilot.
+She is a lawyer.
+This girl is a lawyer.
+This woman is a lawyer.
+My mother is a lawyer.
+My daughter is a lawyer.
+My grandmother is a lawyer.
+My granddaughter is a lawyer.
+My aunt is a lawyer.
+My niece is a lawyer.
+My sister is a lawyer.
+My girlfriend is a lawyer.
+My wife is a lawyer.
+The bride is a lawyer.
+This lady is a lawyer.
+The female candidate is a lawyer.
+Madam, you are a lawyer.
+Mum is a lawyer.
+Grandma is a lawyer.
+This widow is a lawyer.
+This spinster is a lawyer.
+She is a flight attendant.
+This girl is a flight attendant.
+This woman is a flight attendant.
+My mother is a flight attendant.
+My daughter is a flight attendant.
+My grandmother is a flight attendant.
+My granddaughter is a flight attendant.
+My aunt is a flight attendant.
+My niece is a flight attendant.
+My sister is a flight attendant.
+My girlfriend is a flight attendant.
+My wife is a flight attendant.
+The bride is a flight attendant.
+This lady is a flight attendant.
+The female candidate is a flight attendant.
+Madam, you are a flight attendant.
+Mum is a flight attendant.
+Grandma is a flight attendant.
+This widow is a flight attendant.
+This spinster is a flight attendant.
+She is a nurse.
+This girl is a nurse.
+This woman is a nurse.
+My mother is a nurse.
+My daughter is a nurse.
+My grandmother is a nurse.
+My granddaughter is a nurse.
+My aunt is a nurse.
+My niece is a nurse.
+My sister is a nurse.
+My girlfriend is a nurse.
+My wife is a nurse.
+The bride is a nurse.
+This lady is a nurse.
+The female candidate is a nurse.
+Madam, you are a nurse.
+Mum is a nurse.
+Grandma is a nurse.
+This widow is a nurse.
+This spinster is a nurse.
+She is a chef.
+This girl is a chef.
+This woman is a chef.
+My mother is a chef.
+My daughter is a chef.
+My grandmother is a chef.
+My granddaughter is a chef.
+My aunt is a chef.
+My niece is a chef.
+My sister is a chef.
+My girlfriend is a chef.
+My wife is a chef.
+The bride is a chef.
+This lady is a chef.
+The female candidate is a chef.
+Madam, you are a chef.
+Mum is a chef.
+Grandma is a chef.
+This widow is a chef.
+This spinster is a chef.
+She is a soldier.
+This girl is a soldier.
+This woman is a soldier.
+My mother is a soldier.
+My daughter is a soldier.
+My grandmother is a soldier.
+My granddaughter is a soldier.
+My aunt is a soldier.
+My niece is a soldier.
+My sister is a soldier.
+My girlfriend is a soldier.
+My wife is a soldier.
+The bride is a soldier.
+This lady is a soldier.
+The female candidate is a soldier.
+Madam, you are a soldier.
+Mum is a soldier.
+Grandma is a soldier.
+This widow is a soldier.
+This spinster is a soldier.
+She is a dancer.
+This girl is a dancer.
+This woman is a dancer.
+My mother is a dancer.
+My daughter is a dancer.
+My grandmother is a dancer.
+My granddaughter is a dancer.
+My aunt is a dancer.
+My niece is a dancer.
+My sister is a dancer.
+My girlfriend is a dancer.
+My wife is a dancer.
+The bride is a dancer.
+This lady is a dancer.
+The female candidate is a dancer.
+Madam, you are a dancer.
+Mum is a dancer.
+Grandma is a dancer.
+This widow is a dancer.
+This spinster is a dancer.
+She is a gym trainer.
+This girl is a gym trainer.
+This woman is a gym trainer.
+My mother is a gym trainer.
+My daughter is a gym trainer.
+My grandmother is a gym trainer.
+My granddaughter is a gym trainer.
+My aunt is a gym trainer.
+My niece is a gym trainer.
+My sister is a gym trainer.
+My girlfriend is a gym trainer.
+My wife is a gym trainer.
+The bride is a gym trainer.
+This lady is a gym trainer.
+The female candidate is a gym trainer.
+Madam, you are a gym trainer.
+Mum is a gym trainer.
+Grandma is a gym trainer.
+This widow is a gym trainer.
+This spinster is a gym trainer.
+She is a mechanic.
+This girl is a mechanic.
+This woman is a mechanic.
+My mother is a mechanic.
+My daughter is a mechanic.
+My grandmother is a mechanic.
+My granddaughter is a mechanic.
+My aunt is a mechanic.
+My niece is a mechanic.
+My sister is a mechanic.
+My girlfriend is a mechanic.
+My wife is a mechanic.
+The bride is a mechanic.
+This lady is a mechanic.
+The female candidate is a mechanic.
+Madam, you are a mechanic.
+Mum is a mechanic.
+Grandma is a mechanic.
+This widow is a mechanic.
+This spinster is a mechanic.
+She is a clerk.
+This girl is a clerk.
+This woman is a clerk.
+My mother is a clerk.
+My daughter is a clerk.
+My grandmother is a clerk.
+My granddaughter is a clerk.
+My aunt is a clerk.
+My niece is a clerk.
+My sister is a clerk.
+My girlfriend is a clerk.
+My wife is a clerk.
+The bride is a clerk.
+This lady is a clerk.
+The female candidate is a clerk.
+Madam, you are a clerk.
+Mum is a clerk.
+Grandma is a clerk.
+This widow is a clerk.
+This spinster is a clerk.
+She is a bartender.
+This girl is a bartender.
+This woman is a bartender.
+My mother is a bartender.
+My daughter is a bartender.
+My grandmother is a bartender.
+My granddaughter is a bartender.
+My aunt is a bartender.
+My niece is a bartender.
+My sister is a bartender.
+My girlfriend is a bartender.
+My wife is a bartender.
+The bride is a bartender.
+This lady is a bartender.
+The female candidate is a bartender.
+Madam, you are a bartender.
+Mum is a bartender.
+Grandma is a bartender.
+This widow is a bartender.
+This spinster is a bartender.
