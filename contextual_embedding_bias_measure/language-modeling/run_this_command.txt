@@ -1,16 +1,7 @@
-python run_language_modeling.py --output_dir=output --model_type=roberta --model_name_or_path=roberta-base --do_train --train_data_file=c:\\Users\\pedro\\Documents\\programming\\python\\LING78000\\transformers\\examples\\language-modeling\\wiki\\wikitext-2-raw\\wiki.train --do_eval --eval_data_file=\\Users\\pedro\\Documents\\programming\\python\\LING78000\\transformers\\examples\\language-modeling\\wiki\\wikitext-2-raw\\wiki.valid --mlm
-
-
-python run_language_modeling.py --output_dir=output --model_type=roberta --model_name_or_path=roberta-base --do_train --train_data_file=wiki.train --do_eval --eval_data_file=wiki.valid --mlm
 
 
 
-
-
-
-python run_language_modeling.py --output_dir=output --model_type=roberta --model_name_or_path=roberta-base --do_train --train_data_file=wiki.train --do_eval --eval_data_file=wiki.valid --mlm
-
-
+python run_language_modeling.py --output_dir=output --model_type=bert --model_name_or_path=bert-base-uncased --do_train --train_data_file=ungendered-data.train.txt --do_eval --eval_data_file=ungendered-data.test.txt --mlm --per_gpu_train_batch_size 32 --no_cuda
 
 
 usage: run_language_modeling.py [-h] [--model_name_or_path MODEL_NAME_OR_PATH]
