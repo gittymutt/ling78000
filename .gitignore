@@ -1,3 +1,4 @@
 transformers
 .ipynb_checkpoints
 __pycache__
+*.pdf
